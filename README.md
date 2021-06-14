@@ -7,6 +7,8 @@ In this assignment, I have developed a Lexical Analyser for my own language, nam
 The basic things which this lexcial analyser can do is:
 1. Scans the source code file .tool of TOOL language line by line.
 2. Analyzes the code and extract the lexemes which can have any of the following Token Class:
+
+
 I. Digit
 II. OPERATOR
 III. PARENTHESIS
